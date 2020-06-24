@@ -5,7 +5,6 @@
 """how the quality and price of a product influence the purchase"""
 
 
-import pandas as pd
 from sklearn import preprocessing
 from sklearn.neighbors import KNeighborsClassifier
 
